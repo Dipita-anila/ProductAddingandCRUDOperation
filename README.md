@@ -1,16 +1,9 @@
-# flutter_application_1
+# Flutter Application with CRUD Operation
+. Here, Using Visual Studio IDE this application is made.
+. Dart Programming Language and for Database Connenection SQLite Database is used.
 
-A new Flutter project.
+# Database Operarions:
+. After running the application, and clicking on home_page.dart page's "ADD Product" Button, a form will appear, by Filling Up and clicking save on the save button, the new entry into the database table will be inserted. 
+. HomePage will show or READ all the inserted product's name and price.
+. By Clicking on Home Page's Update and  Delete button, the updation and deletion operation can be performed.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
