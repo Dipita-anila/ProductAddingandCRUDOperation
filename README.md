@@ -1,4 +1,4 @@
-# Flutter Application with CRUD Operation
+# Flutter Application with CRUD Operations
 * Here, Using Visual Studio IDE this application is made.
 * Dart Programming Language and for Database Connenection SQLite Database is used.
 
